@@ -2,7 +2,7 @@ repo_name: JoelSalas22/actions-learning-pathway
 report_id: b57d28e76198272e1e0ae5e3ccc81929
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-06T22:29:00+00:00'
+timestamp: '2024-02-29T19:55:43+00:00'
 requested_by: JoelSalas22
 provider: github
 branch: main
@@ -30,7 +30,7 @@ tools:
   detection_source_url: https://github.com/JoelSalas22/actions-learning-pathway
   detection_source: Repo Metadata
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.5.4
   open_source: true
